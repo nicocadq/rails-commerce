@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+ps4:
+  title: PS4 test
+  description: It's rota
+  price: 200
+
+mac:
+  title: Mac m1
+  description: It contains a m1
+  price: 20
