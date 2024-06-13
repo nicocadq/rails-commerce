@@ -4,8 +4,10 @@ ps4:
   title: PS4 test
   description: It's rota
   price: 200
+  category: games
 
 mac:
   title: Mac m1
   description: It contains a m1
   price: 20
+  category: computers
